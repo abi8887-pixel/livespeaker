@@ -1,0 +1,6 @@
+{
+  "name": "Kalarava - English to Kannada Voice Studio",
+  "description": "Studio-grade English to Kannada text-to-speech with natural translation, voice pitch and speed controls, interactive waveform preview, and instant sharing in MP3, WAV, or AAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
